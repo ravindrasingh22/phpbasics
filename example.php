@@ -1,8 +1,8 @@
 <?php
-$a = 5;
+$a = 8;
 $b = 6;
 // Add A + B
-$c = $a+$b
+$c = $b + $a;
 
 print $c;
 
